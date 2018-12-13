@@ -117,4 +117,4 @@ do {
 print("\nПроверяем изменения")
 print(person2)
 
-print(" ")
+print("   ")
